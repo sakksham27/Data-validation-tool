@@ -1,0 +1,10 @@
+name = "data-health-lab-worker"
+main = "src/index.js"
+compatibility_date = "2024-09-25"
+compatibility_flags = ["nodejs_compat"]
+
+# Enables env.AI.run(...) for free-tier Workers AI narrative notes.
+# No extra setup needed beyond having this binding - Cloudflare provisions it
+# automatically for every Workers account (generous free monthly allowance).
+[ai]
+binding = "AI"

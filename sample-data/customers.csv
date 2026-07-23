@@ -1,0 +1,11 @@
+customer_id,customer_age,signup_date,plan,monthly_spend
+1,23,2023-01-15,pro,49.99
+2,24,2023-01-16,basic,NULL
+3,NULL,2023-01-18,pro,59.99
+4,500,2023-01-20,pro,54.99
+5,27,2023-01-22,basic,19.99
+6,31,2023-01-25,enterprise,-20
+7,29,NULL,basic,24.99
+8,45,2023-02-01,pro,49.99
+9,NULL,2023-02-03,basic,NULL
+10,150,2023-02-05,pro,49.99
